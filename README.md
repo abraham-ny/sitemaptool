@@ -1,10 +1,10 @@
 # SitemapTool (smx)
 
-A plug n play, cross-platform sitemap management tool.
+A production-ready, cross-platform sitemap management tool with concurrent-safe operations.
 
 ## Features
 
-- ✅ Cross-platform (Windows, Linux, macOS)
+- ✅ Cross-platform (Windows, Linux, macOS, Server-OSes)
 - ✅ Concurrent-safe operations with file locking
 - ✅ Automatic sitemap rotation at 50k URLs
 - ✅ Sitemap index generation
@@ -17,7 +17,7 @@ A plug n play, cross-platform sitemap management tool.
 ## Installation
 
 ### Option 1: Download Pre-built Binary
-Download from [Releases](https://github.com/abraham-ny/sitemaptool/releases)
+Download from [Releases](https://github.com/abraham-ny/sitemaptool/releases/latest)
 
 ### Option 2: Build from Source
 
@@ -207,3 +207,4 @@ MIT License
 ## Contributing
 
 Pull requests welcome! Please ensure tests pass and code is formatted.
+

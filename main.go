@@ -20,7 +20,7 @@ import (
 )
 
 const (
-	VERSION               = "1.0.3"
+	VERSION               = "1.0.4"
 	GITHUB_REPO           = "abraham-ny/sitemaptool"
 	MAX_URLS_PER_SITEMAP  = 50000
 	MAX_SITEMAP_SIZE      = 50 * 1024 * 1024 // 50MB
